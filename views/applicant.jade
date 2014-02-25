@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    .container
+        .row
+            .jumbotron
+                h1 Applicant
+
+                h2= applicant.name
+                p name: #{applicant.name}
+                p bio: #{applicant.bio}
+                p skills: #{applicant.skills}
+                p years: #{applicant.years}
+                p why: #{applicant.why}
+

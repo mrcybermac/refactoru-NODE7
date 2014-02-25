@@ -60,6 +60,13 @@ app.get('/applicant/remove/:id', function(req, res){
 app.get('/appsuccess', function(req, res){
     res.render('success');
 });
+app.get('/:userid', function(req, res){
+    ApplicantModel.find({_id:req.params.userid}, function (err, doc){
+        console.log(doc);
+        res.render('applicant', {applicant: doc[0]});
+    });
+
+});
 
 
 // Connect to DB:

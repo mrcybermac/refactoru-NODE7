@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e014ba64-85a2-407e-b29a-ed1fab94165e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/refactoru-NODE7.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/success.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
     </list>
     <ignored path="refactoru-NODE7.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +28,7 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="10" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.7593583" vertical-offset="399" max-vertical-offset="1290">
+            <state line="61" column="3" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.9197861" vertical-offset="399" max-vertical-offset="1290">
               <folding />
             </state>
           </provider>
@@ -321,7 +315,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="10" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.7593583" vertical-offset="399" max-vertical-offset="1290">
+        <state line="61" column="3" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.9197861" vertical-offset="399" max-vertical-offset="1290">
           <folding />
         </state>
       </provider>

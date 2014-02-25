@@ -51,7 +51,7 @@ app.post('/applicant', function(req, res){
 });
 app.get('/applicant/remove/:id', function(req, res){
     ApplicantModel.remove({_id:req.params.id}, function (err, doc)  {
-        //doc.remove(function (err, doc){
+        //doc[0].remove(function (err, doc){
             res.redirect('/applicants');
         //});
     });
